@@ -1,5 +1,5 @@
 
-*Welcome to my GitHub Profile!*
+##**Welcome to my GitHub Profile!**##
 
 Hello! I'm a dedicated oceanographer with a passion for knowledge. I earned my undergraduate degree at the State University of Rio de Janeiro, where I explored various facets of oceanography, culminating in a project on sediment dynamics.
 
