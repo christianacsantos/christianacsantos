@@ -17,4 +17,4 @@ In addition to oceanography, I also serve as a mother, where I am called to the 
 📖 I'm a constant learner in Python and human development.
 
 
-📫 You can reach me via email at christianacs@id.uff.br or through LinkedIn (insert your LinkedIn profile link here).
+📫 You can reach me via email at christianacs@id.uff.br or through LinkedIn (https://www.linkedin.com/in/christianacsantos/).
