@@ -7,7 +7,9 @@ After that, I embarked on a journey into the business world, where I had the opp
 
 Seeking to enhance my expertise in environmental management, I pursued an MBA at the Federal University of Rio de Janeiro, gaining solid knowledge of legal requirements and sustainable practices applicable to the corporate world.
 
-Following a fulfilling tenure in the corporate sector, I felt the call of academia and returned voluntarily to delve even deeper into the scientific universe. Currently, I am pursuing a master's degree, dedicating myself to the preparation of my dissertation. My research focus is on Marine Heatwaves, climatic phenomena that directly affect marine ecosystems. To keep up with my work in this area, I've created an exclusive repository here on GitHub, where I share data, code, and insights related to this fascinating topic.
+Following a fulfilling tenure in the corporate sector, I felt the call of academia and returned voluntarily to delve even deeper into the scientific universe. I recently completed my master’s degree, where I conducted research on Marine Heatwaves—climatic phenomena that directly affect marine ecosystems. To share my work, I created a GitHub repository with data, code, and insights related to this fascinating topic.
+
+Currently, I am a Ph.D. candidate at Fluminense Federal University, where I research extreme ocean events and climate variability.
 
 I'm always on the lookout for new challenges and learning opportunities. If you're interested in oceanography, environmental science, or just want to exchange ideas, feel free to get in touch!
 
